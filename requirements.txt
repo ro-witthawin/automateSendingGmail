@@ -1,0 +1,9 @@
+fastapi==0.115.5
+uvicorn[standard]==0.31.1
+python-multipart==0.0.17
+pydantic==2.9.2
+pydantic[email]
+google-api-python-client 
+google-auth 
+google-auth-httplib2 
+python-dotenv
